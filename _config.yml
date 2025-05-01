@@ -1,9 +1,9 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+title: Cat
+description: "One of Hope's multiple repositories.
+owner_name: Hope Fune
+github_username: McHopiee
+github_repo: "cat" 
+baseurl: "/cat"
 future: true
 remote_theme: jekyll/minima
 minima:
